@@ -1,0 +1,7 @@
+This file shows the main characters of Harry Potter
+1. Harry Potter
+2. Hermoine Granger
+3. Ron Weasly
+4. Draco Malfoy
+5. Severus Snape
+6. Albus Dumbledore
